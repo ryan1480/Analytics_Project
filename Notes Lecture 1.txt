@@ -1,0 +1,5 @@
+try 3 classification algos with 2 or 5 percent
+then use whole dataset
+
+only 5% fraudulent.
+stratification to get around half half for machine learning
