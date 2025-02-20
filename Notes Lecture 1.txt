@@ -13,3 +13,5 @@ Cost usrechne of false positive and false negative
 
 try 3 classification algos with 2 or 5 percent
 then use whole dataset
+
+ca. 4 coaching sessions
